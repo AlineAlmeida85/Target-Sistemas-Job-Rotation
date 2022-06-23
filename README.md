@@ -34,11 +34,11 @@ ___
 ___
 ## 🔨 Funcionalidades 🛠️
 
-- `Exercício 1 ` [Veja Aqui](./Exercicio01/README.md) ✔️
-- `Exercício 2 ` [Veja Aqui](./Exercicio02/README.md) ✔️
-- `Exercício 3 ` [Veja Aqui](./Exercicio03/README.md) ✔️
-- `Exercício 4 ` [Veja Aqui](./Exercicio04/README.md) ✔️
-- `Exercício 5 ` [Veja Aqui](./Exercicio05/README.md) ✔️
+- `Exercício 1 ` [Veja Aqui](https://github.com/AlineAlmeida85/Target-Sistemas-Job-Rotation/tree/main/Exercicio01) ✔️
+- `Exercício 2 ` [Veja Aqui](https://github.com/AlineAlmeida85/Target-Sistemas-Job-Rotation/tree/main/Exercicio02) ✔️
+- `Exercício 3 ` [Veja Aqui](https://github.com/AlineAlmeida85/Target-Sistemas-Job-Rotation/tree/main/Exercicio03) ✔️
+- `Exercício 4 ` [Veja Aqui](https://github.com/AlineAlmeida85/Target-Sistemas-Job-Rotation/tree/main/Exercicio04) ✔️
+- `Exercício 5 ` [Veja Aqui](https://github.com/AlineAlmeida85/Target-Sistemas-Job-Rotation/tree/main/Exercicio05) ✔️
 
 ___
 ## 📋 Pré-requisitos 
